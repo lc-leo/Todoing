@@ -1,0 +1,13 @@
+;!@Install@!UTF-8!
+Title="Todoing"
+BeginPrompt="将安装「Todoing」到本电脑，并创建桌面快捷方式。是否继续？"
+CancelPrompt="确定取消安装吗？"
+ExtractTitle="正在安装 Todoing"
+ExtractDialogText="请稍候"
+InstallPath="%LocalAppData%\\Todoing"
+GUIMode="1"
+OverwriteMode="2"
+RunProgram="Todoing.exe"
+Shortcut="Du,{%%T}\\Todoing.exe,{userdesktop}\\Todoing,,{%%T},Todoing — Windows 待办"
+Shortcut="Pu,{%%T}\\Todoing.exe,{userprograms}\\Todoing,,{%%T},Todoing — Windows 待办"
+;!@InstallEnd@!

@@ -1,0 +1,18 @@
+Todoing 1.0
+
+安装
+  双击 Todoing-Setup-1.0.0.exe。
+  若弹出「Windows 已保护你的电脑」，点「更多信息」→「仍要运行」。
+  完成后桌面和开始菜单会出现「Todoing」。
+
+运行环境
+  使用 Windows 自带的 Edge WebView2（Windows 11 已自带）。
+  Windows 10 请先安装 Microsoft Edge。
+
+使用
+  左上角菜单可折叠侧边栏。
+  「我的一天 / 我的一周 / 番茄钟」都可以贴到桌面，弹出独立小窗后拖到角落即可。
+  任务保存在这台电脑。
+
+卸载
+  删除文件夹 %LocalAppData%\Todoing，并删掉桌面 / 开始菜单里的快捷方式。

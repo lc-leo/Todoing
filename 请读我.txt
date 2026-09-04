@@ -1,0 +1,10 @@
+Todoing — 请读我
+
+日常使用请下载「Windows 安装包 / 便携包」，不要把本源码目录当软件解压：
+
+  程序本体大约 7 MB（Todoing.exe）
+  安装包大约 2.5 MB（Todoing-Setup-1.0.0.exe）
+  便携包解压后大约 7 MB（Todoing-Portable-1.0.0.zip）
+
+本目录是给二次开发用的源代码，里面有网页预览和编译工具，体积会到几百 MB。
+那不是 Todoing 的运行体积。
